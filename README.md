@@ -20,7 +20,7 @@ This app performs basic arithmetic operations like addition, subtraction, multip
 
 ## 🚀 Live Demo
 
-Want to try it online? [Deploy on Streamlit Cloud]([https://streamlit.io/cloud](https://calculator-cli-app-jhdr6wr7cfrwvkzszcjfau.streamli)) and share your app with a public link!
+Want to try it online? [Deploy on Streamlit Cloud](https://calculator-cli-app-6n7bar7ceowapyvouh5bz5.streamlit.app/) and share your app with a public link!
 ## 🧰 Features
 
 - 🔢 Input two numbers
