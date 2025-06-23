@@ -1,15 +1,22 @@
-# calculator-cli-app
-A simple calculator cli web app built with Streamlit. Supports basic arithmetic operations with a clean UI.
-
 # 🧮 Streamlit Calculator App
 
-A fun and interactive calculator built with Streamlit and emojis!  
-Performs basic arithmetic operations with a clean, user-friendly interface.
+A fun and user-friendly web calculator built using Python and Streamlit.  
+This app performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-## 🚀 How to Run Locally
+## 🚀 Live Demo
 
-```bas
-streamlit run calculator_app.pyh
-git clone https://github.com/your-username/streamlit-calculator.git
-cd streamlit-calculator
-pip install -r requirements.txt
+Want to try it online? [Deploy on Streamlit Cloud]([https://streamlit.io/cloud](https://calculator-cli-app-jhdr6wr7cfrwvkzszcjfau.streamli)) and share your app with a public link!
+## 🧰 Features
+
+- 🔢 Input two numbers
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division (with error handling for divide-by-zero)
+- ✅ Clean result display with emojis
+- 💻 Runs in your browser — no desktop app needed
+
+- Run the Streamlit app
+streamlit run calculatorCLI.py
+
+
